@@ -1,2 +1,2 @@
-# remotr_control
+# remote_control
 Remote monitoring app based on Android
